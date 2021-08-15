@@ -50,8 +50,9 @@ A resume is a vital part in your job hunt since it enables you to highlight you
 
 <br/>
 
-All the best chellams ❤🤟🏻 Meet y'all in the next article. *Signing off !*
+All the best chellams ❤🤟🏻 
 
+Meet y'all in the next article. *Signing off !*
 
 வாழ்க தமிழ் ! வெல்க தமிழர்கள் ! 🟨🟥
 
