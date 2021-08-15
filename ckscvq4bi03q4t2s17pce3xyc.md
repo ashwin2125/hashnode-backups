@@ -48,10 +48,9 @@ A resume is a vital part in your job hunt since it enables you to highlight you
 
 - [5 Elements of a Good Technical Resume - TechGig ](https://content.techgig.com/5-elements-of-a-good-technical-resume-for-freshers/articleshow/73299849.cms)
 
-<br/><br/>
-
+<br/>
 All the best chellams ❤🤟🏻 Meet y'all in the next article. *Signing off !*
 
 
-வாழ்க தமிழ் ! வாழ்க தமிழர்கள் ! 🟨🟥
+வாழ்க தமிழ் ! வெல்க தமிழர்கள் ! 🟨🟥
 
