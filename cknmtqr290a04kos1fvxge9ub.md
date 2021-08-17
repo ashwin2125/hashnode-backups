@@ -203,6 +203,4 @@ Data Access Module takes the SQL Error Codes and makes exceptions with a single 
 
 That's it for today. Meet you all in the next article. 
 
-Until then, See ya ❤️
-
-புலிகளின் தாகம் தமிழீழத் தாயகம் ! 🟥🟨
+Until then, See ya ! 🟥🟨
