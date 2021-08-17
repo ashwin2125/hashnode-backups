@@ -47,6 +47,4 @@ There are a lot of folks looking for a job opportunity at this moment. Hopefully
 
 All the best chellams ❤🤟🏻
 
-Meet you all in the next article. Signing off !
-
-புலிகளின் தாகம் தமிழீழத் தாயகம் ! 🟥🟨
+Meet you all in the next article. Signing off ! 🟥🟨
