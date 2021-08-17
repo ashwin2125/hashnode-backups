@@ -23,11 +23,7 @@ Ceylon Government rejected their demand and started arresting tamils who raised 
 Sinhala government also banned import of books/movies from another tamil homeland 'Tamil Nadu' which was seen as a tactical move to blind tamils from attaining knowledge.
 
 
-To be continued.  #TamilGenocideRemembranceMonth 
-
-மீண்டு(ம்) வருவோம். 🐅👣
-
-புலிகளின் தாகம் தமிழீழத் தாயகம் ! 🟥🟨
+To be continued.  #TamilGenocideRemembranceMonth 🟥🟨
 
 
 
