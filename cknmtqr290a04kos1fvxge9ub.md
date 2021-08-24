@@ -203,4 +203,7 @@ Data Access Module takes the SQL Error Codes and makes exceptions with a single 
 
 That's it for today. Meet you all in the next article. 
 
-Until then, See ya ! 🟥🟨
+Until then, See ya ! 
+
+
+வாழ்க தமிழ் ! வளர்க தமிழர்கள் ! 🟥🟨
