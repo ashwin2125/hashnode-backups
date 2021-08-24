@@ -45,6 +45,9 @@ There are a lot of folks looking for a job opportunity at this moment. Hopefully
 
 *The smallest of actions is better than the greatest of intentions.*
 
-All the best chellams ❤🤟🏻
+All the best ❤🤟🏻
 
 Meet you all in the next article. Signing off ! 🟥🟨
+
+
+வாழ்க தமிழ் ! வளர்க தமிழர்கள் ! 🟥🟨
