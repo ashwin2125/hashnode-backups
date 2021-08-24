@@ -48,4 +48,6 @@ A resume is a vital part in your job hunt since it enables you to highlight you
 
 All the best ❤🤟🏻 
 
-Meet y'all in the next article. *Signing off !* 🟥🟨
+Meet y'all in the next article. *Signing off !* 
+
+வாழ்க தமிழ் ! வளர்க தமிழர்கள் ! 🟥🟨
