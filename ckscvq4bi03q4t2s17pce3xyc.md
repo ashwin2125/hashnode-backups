@@ -12,6 +12,7 @@ A resume is a vital part in your job hunt since it enables you to highlight you
 
 ## Dont's: 🙅🏻‍♀️
 
+- Start create resumes in 'docx' or 'pdf' format. Please avoid outdated versions like '.doc'.
 - The resume should not have any headings such as ‘CV’ or ‘Resume’.
 - Flashy fonts and colors must not be used. (Recommended :Arial or SF Pro (if you are using MacOS))
 - The resume should not contain words such as ‘I’ or ‘My’.
@@ -30,26 +31,21 @@ A resume is a vital part in your job hunt since it enables you to highlight you
 - Skills (Technologies that you are very comfortable with)
 - Projects ( Please include your final year project)
 - Certifications (worthy, if any)
-- Personal Details (DOB, Gender, Full Name and Father Name - (Please don’t include your marital status as ‘Committed’. LOL 😜 ))
-
-## Few Quality Resume Creation Websites 🎯
-
-1. [Resume Genius](https://app.resumegenius.com/resume-builder/) 🔗
-2. [Resume Monk](https://www.resumonk.com/)  🔗 
-3. [Cake Resume](https://www.cakeresume.com/)  🔗
-4. [Zety Resume Builder](https://zety.com/)  🔗
-
+- Personal Details (DOB, Gender, Full Name and Father Name - (Please don’t include your marital status as 'Single' or ‘Committed’.😜 'Marital Status: Unmarried' -> will be fine. ))
 
 ## Extra Resources:
 
-- [Resume Builder - Android App](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
 
-- [Important Resume Tips for Freshers - Naukri.com](https://www.naukri.com/blog/important-resume-tips-for-freshers/)
+- [Important Resume Tips for Freshers - Naukri.com](https://www.naukri.com/blog/important-resume-tips-for-freshers/) 🔗
 
-- [5 Elements of a Good Technical Resume - TechGig ](https://content.techgig.com/5-elements-of-a-good-technical-resume-for-freshers/articleshow/73299849.cms)
+- [5 Elements of a Good Technical Resume - TechGig ](https://content.techgig.com/5-elements-of-a-good-technical-resume-for-freshers/articleshow/73299849.cms) 🔗
+
+- [Resume Builder - Android App](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae) 🔗 -> For those who don't own a PC.
+
+- [Google Docs - Create 'Simple' Resumes easily](https://docs.google.com/) 🔗
 
 <br/>
 
-All the best chellams ❤🤟🏻 
+All the best ❤🤟🏻 
 
 Meet y'all in the next article. *Signing off !* 🟥🟨
