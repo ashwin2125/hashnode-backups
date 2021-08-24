@@ -29,7 +29,7 @@
 
 Please spend a couple of minutes just proofreading your email/resume. Avoids errors and missing out details. Also, please make sure you don't include any valueless stuffs you did, in the resume.
 
-Example : Since we are from IT Department, "Attended aeronatical workshop in 2017" doesn't count as your co-curriculur activity. 
+Example : If you are from IT Department, "Attended aeronatical workshop in 2017" doesn't count as your co-curriculur activity. 
 
 ## LinkedIn : 
 
