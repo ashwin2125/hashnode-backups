@@ -47,7 +47,7 @@ There are a lot of folks looking for a job opportunity at this moment. Hopefully
 
 All the best ❤🤟🏻
 
-Meet you all in the next article. Signing off ! 🟥🟨
+Meet you all in the next article. Signing off ! 
 
 
-வாழ்க தமிழ் ! வளர்க தமிழர்கள் ! 🟥🟨
+வாழ்க தமிழ் ! வளர்க தமிழினம் ! 🟥🟨
