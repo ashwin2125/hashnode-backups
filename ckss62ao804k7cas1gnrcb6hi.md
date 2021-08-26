@@ -160,3 +160,5 @@ Thanks for listening to all the points, patiently. I hope it has helped and prov
 Feel free to leave your questions an in the chat and, I wish you all, the best of luck for getting placed in your dream company. 
 
 All credits to Victoria Lo (https://lo-victoria.com/) for these excellent points and I just rewrote a few key points, to make it relevant to freshers.
+
+வாழ்க தமிழ் ! வளர்க தமிழினம் ! 🟥🟨
