@@ -1,4 +1,4 @@
-## Why Azure AI Fundamentals (AI-900) is the easiest of all Microsoft Certifications to clear?
+## Easiest Microsoft Azure Cloud Certification ?
 
 <details><summary>Introduction</summary>The world has shifted its momentum towards AI long time back, and cloud AI solutions will be one of the next big thing in the future years, given the increasing power/resource requirements for building and maintaining AI solutions. Our local computers are almost incapable of managing such higher workloads required by A.I, thus we must rely on the cloud to power our AI Workflows in Enterprises. This marks the importance of having skills to create, modify and manage A.I Workflows in enterprises, and that's where **Microsoft Azure AI Platform** comes into play. <br><br>
 
