@@ -21,6 +21,12 @@
         Best Case : O(N*2)
         Worst Case: O(N*2)
 
+### Counting Sort :
+- If you know the range of numbers present in the data to be sorted, then Counting Sort is a better than the rest of the above specified algorithms.
+- **Time Complexity** : 
+        Best Case : O(N) - When all the array elements are same.
+        Worst Case: O(N+K) -  When the range is too complex.
+
 
 That's it for now. Meet you in the next article. ❤
 Do check out my other blogs. I'm sure you'll love them ! 🦄
