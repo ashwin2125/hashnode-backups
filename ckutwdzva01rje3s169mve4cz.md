@@ -148,6 +148,7 @@ vector<int> countingSort(vector<int> arr){
 
 - **Merge Sort - Algorithm : **
 
+
 ```
 void mergesort(int A[],int size_a,int B[],int size_b,int C[])
 {
@@ -173,8 +174,6 @@ void mergesort(int A[],int size_a,int B[],int size_b,int C[])
 
 }
 ``` 
-
-
 
 That's it for now. Meet you in the next article. ❤
 Do check out my other blogs. I'm sure you'll love them ! 🦄
