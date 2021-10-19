@@ -1,8 +1,6 @@
 ## Sorting Algorithms and it's Time Complexities - Simplified !
 
-Sorting in data structures refers to organizing data in a certain order (ascending or descending). Sorting data makes it simpler to reliably and swiftly explore through a particular data sample.
-
-# Sorting Algorithms and it's Time Complexities
+# Searching Algorithms and it's Time Complexities
 
 ### Bubble Sort :
 
@@ -10,7 +8,6 @@ Sorting in data structures refers to organizing data in a certain order (ascend
 - **Time Complexity** : 
         Best Case : O(N) - When the array is sorted
         Worst Case: O(N*2) - When the array is reverse sorted.
-
 - **Bubble Sort - Algorithm : **
 
    ```
@@ -24,8 +21,6 @@ void bubbleSort(int *arr, int n){
     }
 }
 ``` 
-
-
 
 ### Insertion Sort :
 - Insert the element in the correct position in a sorted part.
@@ -53,7 +48,6 @@ void insertionSort(int *arr, int n){
 - **Time Complexity** : 
         Best Case : O(N*2)
         Worst Case: O(N*2)
-
 - **Selection Sort - Algorithm : **
 
    ```
@@ -74,6 +68,36 @@ void selectionSort(int *arr, int n){
 }
 ``` 
 
+### Quick Sort :
+- If you know the range of numbers present in the data to be sorted, then Counting Sort is a better than the rest of the above specified algorithms.
+- **Time Complexity** : 
+        Best Case : O(N) - When all the array elements are same.
+        Worst Case: O(N*N) -  When the range is too complex.
+- **Counting Sort - Algorithm : **
+
+   ```
+vector<int> countingSort(vector<int> arr){
+    //FindLargest&SmallestElementOfArray
+    int n = arr.size();
+    int largest = *max_element(arr.begin(), arr.end());
+    //Frequency Vector;
+    vector<int> freq(largest+1,0);
+    //Update the freq vector:
+    for(int x:arr){
+        freq[x]++;
+    }
+    //Put Back the elements from freq to original array
+    int j=0;
+    for(int i=0;i<largest;i++){
+        while(freq[i]>0){
+            arr[j] = i;
+            freq[i]--;
+            j++;
+        }
+    }
+    return arr;
+}``` 
+
 ### Counting Sort :
 - If you know the range of numbers present in the data to be sorted, then Counting Sort is a better than the rest of the above specified algorithms.
 - **Time Complexity** : 
@@ -82,22 +106,27 @@ void selectionSort(int *arr, int n){
 - **Counting Sort - Algorithm : **
 
    ```
-void selectionSort(int *arr, int n){
-    for(int position = 0;position<=n-2;position++){
-        int currentElement = arr[position];
-        int minPosition = position;
-        for(int j = position;j<n;j++){
-            if(arr[j]<arr[minPosition]){
-                minPosition = j;
-            }
+vector<int> countingSort(vector<int> arr){
+    //FindLargest&SmallestElementOfArray
+    int n = arr.size();
+    int largest = *max_element(arr.begin(), arr.end());
+    //Frequency Vector;
+    vector<int> freq(largest+1,0);
+    //Update the freq vector:
+    for(int x:arr){
+        freq[x]++;
+    }
+    //Put Back the elements from freq to original array
+    int j=0;
+    for(int i=0;i<largest;i++){
+        while(freq[i]>0){
+            arr[j] = i;
+            freq[i]--;
+            j++;
         }
-        swap(arr[minPosition],arr[position]);
     }
-    for(int i=0;i<n;i++){
-        cout<<arr[i]<<" ";
-    }
-}
-``` 
+    return arr;
+}``` 
 
 
 
