@@ -69,34 +69,43 @@ void selectionSort(int *arr, int n){
 ``` 
 
 ### Quick Sort :
-- If you know the range of numbers present in the data to be sorted, then Counting Sort is a better than the rest of the above specified algorithms.
+- One of the fastest sorting algorithms which is widely used everywhere where 'stability' is not a priority. 
+- Quick Sort is a divide and conquer algorithm and also an in-place sorting algorithm which doesn't require any extra storage.
+
 - **Time Complexity** : 
-        Best Case : O(N) - When all the array elements are same.
-        Worst Case: O(N*N) -  When the range is too complex.
-- **Counting Sort - Algorithm : **
+        Best Case : O(NLogN) - When the random pivot is the middle element.
+        Worst Case: O(N*N) - When the random pivot is greatest/smallest element
+
+- **Quick Sort - Algorithm : **
 
    ```
-vector<int> countingSort(vector<int> arr){
-    //FindLargest&SmallestElementOfArray
-    int n = arr.size();
-    int largest = *max_element(arr.begin(), arr.end());
-    //Frequency Vector;
-    vector<int> freq(largest+1,0);
-    //Update the freq vector:
-    for(int x:arr){
-        freq[x]++;
-    }
-    //Put Back the elements from freq to original array
-    int j=0;
-    for(int i=0;i<largest;i++){
-        while(freq[i]>0){
-            arr[j] = i;
-            freq[i]--;
-            j++;
-        }
-    }
-    return arr;
-}``` 
+int partition (int arr[], int low, int high) 
+{ 
+    int pivot = arr[high];     
+    int i = (low - 1);  
+  
+    for (int j = low; j <= high- 1; j++) 
+    { 
+        if (arr[j] <= pivot) 
+        { 
+            i++;    
+            swap(&arr[i], &arr[j]); 
+        } 
+    } 
+    swap(&arr[i + 1], &arr[high]); 
+    return (i + 1); 
+}
+void quickSort(int arr[], int low, int high) 
+{ 
+    if (low < high) 
+    {
+        int pi = partition(arr, low, high); 
+  
+        quickSort(arr, low, pi - 1); 
+        quickSort(arr, pi + 1, high); 
+    } 
+} 
+``` 
 
 ### Counting Sort :
 - If you know the range of numbers present in the data to be sorted, then Counting Sort is a better than the rest of the above specified algorithms.
