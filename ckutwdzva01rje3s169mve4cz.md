@@ -148,7 +148,7 @@ vector<int> countingSort(vector<int> arr){
 
 - **Merge Sort - Algorithm : **
 
-   ```
+```
 void mergesort(int A[],int size_a,int B[],int size_b,int C[])
 {
      int token_a,token_b,token_c;
