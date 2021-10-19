@@ -137,6 +137,43 @@ vector<int> countingSort(vector<int> arr){
     return arr;
 }``` 
 
+### Merge Sort :
+- Divide and Conquer Algorithm which uses both recursive and non-recursive approaches to sort the data.
+- Stable algorithm which also requires extra memory space for its operations - O(N)
+
+
+- **Time Complexity** : 
+        Best Case : O(NLogN) - As merge sort always performs same number of operations
+        Worst Case: O(NLogN) - so, the Best and Worst case is always O(NLogN)
+
+- **Merge Sort - Algorithm : **
+
+   ```
+void mergesort(int A[],int size_a,int B[],int size_b,int C[])
+{
+     int token_a,token_b,token_c;
+     for(token_a=0, token_b=0, token_c=0; token_a<size_a && token_b<size_b; )
+     {
+          if(A[token_a]<=B[token_b])
+               C[token_c++]=A[token_a++];
+          else
+               C[token_c++]=B[token_b++];
+      }
+      
+      if(token_a<size_a)
+      {
+          while(token_a<size_a)
+               C[token_c++]=A[token_a++];
+      }
+      else
+      {
+          while(token_b<size_b)
+               C[token_c++]=B[token_b++];
+      }
+
+}
+``` 
+
 
 
 That's it for now. Meet you in the next article. ❤
